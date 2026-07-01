@@ -1,0 +1,7 @@
+Invoice
+Vendor: Royal Trading Company
+Invoice Number: INV-1010
+Date: 03/07/2026
+GST: ₹2400
+Total Amount: ₹14000
+Payment Due Date: 18/07/2026

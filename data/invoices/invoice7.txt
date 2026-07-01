@@ -1,0 +1,7 @@
+Invoice
+Vendor: Metro Engineering Works
+Invoice Number: INV-1007
+Date: 27/06/2026
+GST: ₹4600
+Total Amount: ₹28000
+Payment Due Date: 12/07/2026

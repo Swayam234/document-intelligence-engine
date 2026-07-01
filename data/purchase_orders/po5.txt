@@ -1,0 +1,6 @@
+Purchase Order
+PO Number: PO-1005
+Supplier: Elite Office Products
+Quantity: 60
+Delivery Date: 07/07/2026
+Delivery Address: Chennai

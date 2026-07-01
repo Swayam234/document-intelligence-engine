@@ -1,0 +1,7 @@
+Invoice
+Vendor: Global Office Supplies
+Invoice Number: INV-1003
+Date: 18/06/2026
+GST: ₹2100
+Total Amount: ₹12500
+Payment Due Date: 03/07/2026

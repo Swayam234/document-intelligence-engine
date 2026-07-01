@@ -1,0 +1,6 @@
+Receipt
+Store: D-Mart
+Date: 18/06/2026
+Items Purchased: Household Products
+Amount Paid: ₹950
+Payment Method: Card

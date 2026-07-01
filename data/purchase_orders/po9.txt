@@ -1,0 +1,6 @@
+Purchase Order
+PO Number: PO-1009
+Supplier: Global Office Supplies
+Quantity: 45
+Delivery Date: 17/07/2026
+Delivery Address: Nagpur

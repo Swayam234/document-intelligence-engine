@@ -1,0 +1,6 @@
+Purchase Order
+PO Number: PO-1004
+Supplier: Sunrise Stationers
+Quantity: 100
+Delivery Date: 05/07/2026
+Delivery Address: Hyderabad

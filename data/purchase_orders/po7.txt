@@ -1,0 +1,6 @@
+Purchase Order
+PO Number: PO-1007
+Supplier: Smart Packaging Ltd
+Quantity: 200
+Delivery Date: 12/07/2026
+Delivery Address: Kolkata

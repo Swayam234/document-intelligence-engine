@@ -1,0 +1,6 @@
+Receipt
+Store: McDonald's
+Date: 26/06/2026
+Items Purchased: Food Items
+Amount Paid: ₹350
+Payment Method: Cash

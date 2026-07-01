@@ -1,0 +1,6 @@
+Receipt
+Store: Pantaloons
+Date: 02/07/2026
+Items Purchased: Clothing
+Amount Paid: ₹2700
+Payment Method: Card

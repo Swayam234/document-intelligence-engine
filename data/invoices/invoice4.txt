@@ -1,0 +1,7 @@
+Invoice
+Vendor: Sunrise Computers
+Invoice Number: INV-1004
+Date: 20/06/2026
+GST: ₹5400
+Total Amount: ₹30000
+Payment Due Date: 05/07/2026

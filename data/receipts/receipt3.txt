@@ -1,0 +1,6 @@
+Receipt
+Store: Starbucks
+Date: 20/06/2026
+Items Purchased: Coffee and Snacks
+Amount Paid: ₹480
+Payment Method: Cash

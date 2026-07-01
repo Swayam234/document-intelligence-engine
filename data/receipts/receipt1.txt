@@ -1,0 +1,6 @@
+Receipt
+Store: Reliance Mart
+Date: 16/06/2026
+Items Purchased: Grocery Items
+Amount Paid: ₹1200
+Payment Method: UPI

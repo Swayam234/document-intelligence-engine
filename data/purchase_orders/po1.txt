@@ -1,0 +1,6 @@
+Purchase Order
+PO Number: PO-1001
+Supplier: XYZ Suppliers
+Quantity: 25
+Delivery Date: 25/06/2026
+Delivery Address: Mumbai

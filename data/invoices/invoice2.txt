@@ -1,0 +1,7 @@
+Invoice
+Vendor: Tech Solutions Ltd
+Invoice Number: INV-1002
+Date: 15/06/2026
+GST: ₹3200
+Total Amount: ₹18000
+Payment Due Date: 30/06/2026

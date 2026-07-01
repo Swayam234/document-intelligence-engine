@@ -1,0 +1,6 @@
+Receipt
+Store: Reliance Digital
+Date: 30/06/2026
+Items Purchased: USB Drive
+Amount Paid: ₹850
+Payment Method: Card

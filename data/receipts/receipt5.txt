@@ -1,0 +1,6 @@
+Receipt
+Store: Croma
+Date: 24/06/2026
+Items Purchased: Mobile Accessories
+Amount Paid: ₹2200
+Payment Method: Card

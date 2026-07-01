@@ -1,0 +1,6 @@
+Receipt
+Store: Apollo Pharmacy
+Date: 22/06/2026
+Items Purchased: Medicines
+Amount Paid: ₹760
+Payment Method: UPI

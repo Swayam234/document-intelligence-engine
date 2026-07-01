@@ -1,0 +1,7 @@
+Invoice
+Vendor: Zenith Technologies
+Invoice Number: INV-1008
+Date: 29/06/2026
+GST: ₹3300
+Total Amount: ₹19500
+Payment Due Date: 14/07/2026

@@ -1,0 +1,7 @@
+Invoice
+Vendor: ABC Electronics Pvt Ltd
+Invoice Number: INV-1001
+Date: 12/06/2026
+GST: ₹4500
+Total Amount: ₹25000
+Payment Due Date: 27/06/2026

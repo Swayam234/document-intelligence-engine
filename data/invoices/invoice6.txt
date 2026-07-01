@@ -1,0 +1,7 @@
+Invoice
+Vendor: Elite Furniture House
+Invoice Number: INV-1006
+Date: 25/06/2026
+GST: ₹3800
+Total Amount: ₹22000
+Payment Due Date: 10/07/2026

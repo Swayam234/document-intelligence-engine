@@ -1,0 +1,6 @@
+Receipt
+Store: Book World
+Date: 04/07/2026
+Items Purchased: Academic Books
+Amount Paid: ₹1250
+Payment Method: UPI

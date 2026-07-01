@@ -1,0 +1,6 @@
+Receipt
+Store: Big Bazaar
+Date: 28/06/2026
+Items Purchased: Grocery and Clothing
+Amount Paid: ₹1850
+Payment Method: UPI

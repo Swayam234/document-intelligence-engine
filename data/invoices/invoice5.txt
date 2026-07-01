@@ -1,0 +1,7 @@
+Invoice
+Vendor: Green Energy Systems
+Invoice Number: INV-1005
+Date: 22/06/2026
+GST: ₹2700
+Total Amount: ₹16000
+Payment Due Date: 07/07/2026

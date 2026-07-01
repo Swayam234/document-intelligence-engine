@@ -1,0 +1,7 @@
+Invoice
+Vendor: Smart Industrial Equipment
+Invoice Number: INV-1009
+Date: 01/07/2026
+GST: ₹5800
+Total Amount: ₹34000
+Payment Due Date: 16/07/2026

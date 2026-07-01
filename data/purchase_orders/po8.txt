@@ -1,0 +1,6 @@
+Purchase Order
+PO Number: PO-1008
+Supplier: Green Energy Components
+Quantity: 30
+Delivery Date: 14/07/2026
+Delivery Address: Ahmedabad

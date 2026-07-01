@@ -1,0 +1,6 @@
+Purchase Order
+PO Number: PO-1010
+Supplier: Royal Trading Company
+Quantity: 80
+Delivery Date: 20/07/2026
+Delivery Address: Goa
