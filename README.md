@@ -6,17 +6,17 @@ A lightweight AI-powered document classification and extraction system built wit
 
 ##  Features
 
-- ** Document Classification** — Classifies pasted document text into one of three categories:
+- **Document Classification** — Classifies pasted document text into one of three categories:
   - `Invoice`
   - `Receipt`
   - `Purchase Order`
-- ** Intelligent Data Extraction** — For Invoice documents, automatically extracts:
+- **Intelligent Data Extraction** — For Invoice documents, automatically extracts:
   - Total Amount
   - Date
   - Vendor Name
-- ** Human-in-the-Loop Feedback** — Users can correct mislabeled predictions; feedback is saved to a CSV file for future retraining.
-- ** Fast ML Pipeline** — Uses TF-IDF vectorization + Logistic Regression for efficient, interpretable text classification.
-- ** Interactive Web UI** — Clean Streamlit interface — no front-end setup needed.
+- **Human-in-the-Loop Feedback** — Users can correct mislabeled predictions; feedback is saved to a CSV file for future retraining.
+- **Fast ML Pipeline** — Uses TF-IDF vectorization + Logistic Regression for efficient, interpretable text classification.
+- **Interactive Web UI** — Clean Streamlit interface — no front-end setup needed.
 
 ---
 
